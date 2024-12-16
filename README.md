@@ -5,7 +5,7 @@
 
 **Access Exploratory Analytical Report via the link below;**
 
-[Jupyter Notebook](https://github.com/rajikudusadewale/Automobile_Data-Analysis/blob/main/Automobile%20EDA_Python%20Project.ipynb)
+[Jupyter Notebook](https://github.com/Asonja12/Automobile-Data-Analysis/blob/main/Automobile%20EDA_Python%20Project.ipynb)
 
 **Conclusion:**
 
